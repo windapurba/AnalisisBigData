@@ -1,0 +1,115 @@
+Provinsi;Kode;Kab_kota;PAD;DAU;P0
+ Prov. Jawa Barat ;1; Kab. Bandung ;724,245;2,096,677;268.02
+ Prov. Jawa Barat ;2; Kab. Bekasi ;1,628,554;1,173,508;163.95
+ Prov. Jawa Barat ;3; Kab. Bogor ;2,006,044;1,917,780;487.28
+ Prov. Jawa Barat ;4; Kab. Ciamis ;164,183;1,203,476;96.76
+ Prov. Jawa Barat ;5; Kab. Cianjur ;424,738;1,569,947;257.41
+ Prov. Jawa Barat ;6; Kab. Cirebon ;462,957;1,521,877;279.55
+ Prov. Jawa Barat ;7; Kab. Garut ;427,150;1,808,710;291.24
+ Prov. Jawa Barat ;8; Kab. Indramayu ;354,278;1,393,869;233.38
+ Prov. Jawa Barat ;9; Kab. Karawang ;943,597;1,250,726;236.84
+ Prov. Jawa Barat ;10; Kab. Kuningan ;252,294;1,218,602;141.55
+ Prov. Jawa Barat ;11; Kab. Majalengka ;372,573;1,225,933;150.26
+ Prov. Jawa Barat ;12; Kab. Purwakarta ;679,867;857,566;85.25
+ Prov. Jawa Barat ;13; Kab. Subang ;310,316;1,305,619;167.79
+ Prov. Jawa Barat ;14; Kab. Sukabumi ;495,101;1,595,761;197.12
+ Prov. Jawa Barat ;15; Kab. Sumedang ;327,453;1,138,930;120.63
+ Prov. Jawa Barat ;16; Kab. Tasikmalaya ;179,021;1,467,973;189.35
+ Prov. Jawa Barat ;17; Kota Bandung ;2,751,417;1,672,457;103.98
+ Prov. Jawa Barat ;18; Kota Bekasi ;1,611,380;1,233,706;136.01
+ Prov. Jawa Barat ;19; Kota Bogor ;681,624;806,090;76.53
+ Prov. Jawa Barat ;20; Kota Cirebon ;319,565;588,110;30.19
+ Prov. Jawa Barat ;21; Kota Depok ;795,351;865,881;52.34
+ Prov. Jawa Barat ;22; Kota Sukabumi ;339,579;504,732;27.41
+ Prov. Jawa Barat ;23; Kota Tasikmalaya ;248,141;794,022;97.85
+ Prov. Jawa Barat ;24; Kota Cimahi ;164,183;1,203,476;34.53
+ Prov. Jawa Barat ;25; Kota Banjar ;119,729;371,447;12.87
+ Prov. Jawa Barat ;26; Kab. Bandung Barat ;297,287;1,103,290;190.89
+ Prov. Jawa Barat ;27; Kab. Pangandaran ;72,590;546,731;39.46
+ Prov. Jawa Tengah ;28; Kab. Banjarnegara ;152,643;976,643;156.83
+ Prov. Jawa Tengah ;29; Kab. Banyumas ;450,492;1,398,540;283.25
+ Prov. Jawa Tengah ;30; Kab. Batang ;159,105;790,848;81.45
+ Prov. Jawa Tengah ;31; Kab. Blora ;208,169;943,325;111.88
+ Prov. Jawa Tengah ;32; Kab. Boyolali ;250,960;1,032,744;116.39
+ Prov. Jawa Tengah ;33; Kab. Brebes ;311,819;1,339,382;343.46
+ Prov. Jawa Tengah ;34; Kab. Cilacap ;328,507;1,384,696;238.32
+ Prov. Jawa Tengah ;35; Kab. Demak ;235,866;908,644;152.62
+ Prov. Jawa Tengah ;36; Kab. Grobogan ;229,073;1,110,337;180.95
+ Prov. Jawa Tengah ;37; Kab. Jepara ;219,092;1,000,373;98.98
+ Prov. Jawa Tengah ;38; Kab. Karanganyar ;216,510;996,164;106.78
+ Prov. Jawa Tengah ;39; Kab. Kebumen ;216,525;1,256,068;233.45
+ Prov. Jawa Tengah ;40; Kab. Kendal ;203,810;972,953;106.07
+ Prov. Jawa Tengah ;41; Kab. Klaten ;194,443;1,237,967;164.99
+ Prov. Jawa Tengah ;42; Kab. Kudus ;274,924;822,154;64.45
+ Prov. Jawa Tengah ;43; Kab. Magelang ;240,540;1,078,982;157.15
+ Prov. Jawa Tengah ;44; Kab. Pati ;267,966;1,207,509;141.73
+ Prov. Jawa Tengah ;45; Kab. Pekalongan ;270,909;926,571;111.58
+ Prov. Jawa Tengah ;46; Kab. Pemalang ;212,483;1,058,983;225
+ Prov. Jawa Tengah ;47; Kab. Purbalingga ;199,789;897,338;171.88
+ Prov. Jawa Tengah ;48; Kab. Purworejo ;201,409;940,778;98.65
+ Prov. Jawa Tengah ;49; Kab. Rembang ;180,808;785,381;115.19
+ Prov. Jawa Tengah ;50; Kab. Semarang ;268,964;968,848;79.66
+ Prov. Jawa Tengah ;51; Kab. Sragen ;219,568;1,067,774;124.01
+ Prov. Jawa Tengah ;52; Kab. Sukoharjo ;264,730;922,624;76.69
+ Prov. Jawa Tengah ;53; Kab. Tegal ;275,013;1,162,102;141.8
+ Prov. Jawa Tengah ;54; Kab. Temanggung ;203,457;807,995;86.77
+ Prov. Jawa Tengah ;55; Kab. Wonogiri ;184,461;1,145,434;123.04
+ Prov. Jawa Tengah ;56; Kab. Wonosobo ;164,650;841,407;159.16
+ Prov. Jawa Tengah ;57; Kota Magelang ;178,122;447,910;10.63
+ Prov. Jawa Tengah ;58; Kota Pekalongan ;160,542;457,085;22.51
+ Prov. Jawa Tengah ;59; Kota Salatiga ;146,652;456,080;9.55
+ Prov. Jawa Tengah ;60; Kota Semarang ;1,232,373;1,211,708;80.86
+ Prov. Jawa Tengah ;61; Kota Surakarta ;372,580;841,536;54.89
+ Prov. Jawa Tengah ;62; Kota Tegal ;258,669;490,772;20.11
+ Prov. DI Yogyakarta ;63; Kab. Bantul ;349,493;999,814;139.67
+ Prov. DI Yogyakarta ;64; Kab. Gunung Kidul ;172,352;954,997;135.74
+ Prov. DI Yogyakarta ;65; Kab. Kulon Progo ;172,435;718,491;84.17
+ Prov. DI Yogyakarta ;66; Kab. Sleman ;614,411;1,014,311;96.75
+ Prov. DI Yogyakarta ;67; Kota Yogyakarta ;503,489;670,279;32.2
+ Prov. Jawa Timur ;68; Kab. Bangkalan ;165,985;1,012,243;206.53
+ Prov. Jawa Timur ;69; Kab. Banyuwangi ;307,163;1,341,343;138.54
+ Prov. Jawa Timur ;70; Kab. Blitar ;195,222;1,128,511;112.93
+ Prov. Jawa Timur ;71; Kab. Bojonegoro ;290,865;949,118;178.25
+ Prov. Jawa Timur ;72; Kab. Bondowoso ;138,315;926,596;111.66
+ Prov. Jawa Timur ;73; Kab. Gresik ;924,976;923,469;164.08
+ Prov. Jawa Timur ;74; Kab. Jember ;485,082;1,709,893;266.9
+ Prov. Jawa Timur ;75; Kab. Jombang ;309,510;1,111,301;131.16
+ Prov. Jawa Timur ;76; Kab. Kediri ;291,775;1,242,231;191.08
+ Prov. Jawa Timur ;77; Kab. Lamongan ;317,130;1,166,656;171.38
+ Prov. Jawa Timur ;78; Kab. Lumajang ;177,205;990,248;112.65
+ Prov. Jawa Timur ;79; Kab. Madiun ;151,441;893,566;83.43
+ Prov. Jawa Timur ;80; Kab. Magetan ;145,800;916,052;65.87
+ Prov. Jawa Timur ;81; Kab. Malang ;394,872;1,613,162;283.96
+ Prov. Jawa Timur ;82; Kab. Mojokerto ;413,772;991,180;111.79
+ Prov. Jawa Timur ;83; Kab. Nganjuk ;280,809;1,078,696;125.52
+ Prov. Jawa Timur ;84; Kab. Ngawi ;161,922;1,058,208;123.76
+ Prov. Jawa Timur ;85; Kab. Pacitan ;109,873;807,908;85.26
+ Prov. Jawa Timur ;86; Kab. Pamekasan ;142,771;862,936;137.77
+ Prov. Jawa Timur ;87; Kab. Pasuruan ;452,457;1,200,612;165.64
+ Prov. Jawa Timur ;88; Kab. Ponorogo ;212,720;1,062,583;99.03
+ Prov. Jawa Timur ;89; Kab. Probolinggo ;201,794;977,570;236.72
+ Prov. Jawa Timur ;90; Kab. Sampang ;120,965;827,953;225.13
+ Prov. Jawa Timur ;91; Kab. Sidoarjo ;1,203,783;1,225,261;135.42
+ Prov. Jawa Timur ;92; Kab. Situbondo ;163,808;821,084;88.23
+ Prov. Jawa Timur ;93; Kab. Sumenep ;169,033;1,110,488;211.92
+ Prov. Jawa Timur ;94; Kab. Trenggalek ;142,210;901,380;89.77
+ Prov. Jawa Timur ;95; Kab. Tuban ;300,385;1,046,759;196.1
+ Prov. Jawa Timur ;96; Kab. Tulungagung ;240,483;1,172,558;82.8
+ Prov. Jawa Timur ;97; Kota Blitar ;108,171;428,744;11.22
+ Prov. Jawa Timur ;98; Kota Kediri ;191,732;617,781;24.07
+ Prov. Jawa Timur ;99; Kota Madiun ;132,435;511,357;8.7
+ Prov. Jawa Timur ;100; Kota Malang ;379,847;870,362;35.88
+ Prov. Jawa Timur ;101; Kota Mojokerto ;122,037;397,094;7.28
+ Prov. Jawa Timur ;102; Kota Pasuruan ;110,876;432,090;14.85
+ Prov. Jawa Timur ;103; Kota Probolinggo ;130,171;470,213;18.23
+ Prov. Jawa Timur ;104; Kota Surabaya ;3,839,158;1,233,380;154.71
+ Prov. Jawa Timur ;105; Kota Batu ;118,739;480,460;8.77
+ Prov. Bali ;106; Kab. Badung ;2,938,006;336,243;13.16
+ Prov. Bali ;107; Kab. Bangli ;92,000;568,279;11.76
+ Prov. Bali ;108; Kab. Buleleng ;273,608;982,698;37.48
+ Prov. Bali ;109; Kab. Gianyar ;448,142;705,975;22.42
+ Prov. Bali ;110; Kab. Jembrana ;88,244;562,525;14.78
+ Prov. Bali ;111; Kab. Karangasem ;233,609;732,964;27.02
+ Prov. Bali ;112; Kab. Klungkung ;103,928;539,855;11.15
+ Prov. Bali ;113; Kab. Tabanan ;270,778;826,284;21.66
+ Prov. Bali ;114; Kota Denpasar ;715,453;661,795;20.7
